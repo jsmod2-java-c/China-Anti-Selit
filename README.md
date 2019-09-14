@@ -1,3 +1,4 @@
+##### 本报告由中国高中生自愿参与搜集,也欢迎大家前来搜集资料
 ## 法律规定
 
 《反分裂国家法》是在2005年3月14日举行的中华人民共和国第十届全国人民代表大会第三次会议通过的一部关于台湾海峡两岸关系的法律，
@@ -36,9 +37,25 @@
 ## 中国政府的态度
 
 1. 中央政府工作报告：“港独”没出路 坚决遏制“台独”
-url: https://military.china.com/important/11132797/20170305/30301153.html
+
+链接: https://military.china.com/important/11132797/20170305/30301153.html
+
 2. 中央遏制“港独”态度坚决
-url: http://m.kdnet.net/share-12328552.html
+
+链接: http://m.kdnet.net/share-12328552.html
+
 3. 人民日报：13亿中国人不答应"港独"“台独”
-url: https://new.qq.com/rain/a/20131024003723
+
+链接: https://new.qq.com/rain/a/20131024003723
+
+4. “港独”和美国，外交部知你们做了什么！
+
+链接: http://baijiahao.baidu.com/s?id=1641296907815321135&wfr=spider&for=pc
+
+## 中国香港人的态度
+
+1. 饶戈平：“港独”进一步猖獗 中央不出手香港人也不答应
+
+链接: http://lianghui.huanqiu.com/2017/roll/2017-03/10258117.html
+
 
