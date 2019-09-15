@@ -151,3 +151,5 @@ black下文件夹
 white下文件夹
 
 [黄智贤](https://github.com/jsmod2-java-c/China-Anti-Selit/tree/master/white/HuangZhiXian)
+[洪秀柱](https://github.com/jsmod2-java-c/China-Anti-Selit/tree/master/white/HongXiuZhu)
+[邱毅](https://github.com/jsmod2-java-c/China-Anti-Selit/tree/master/white/QiuYi)
