@@ -132,9 +132,9 @@
 ## 主要港独台独分子
 black下文件夹
 
-黄之锋
+[黄之锋](https://github.com/jsmod2-java-c/China-Anti-Selit/tree/master/black/HuangZhiFeng)
 
 ## 维护中国统一人士
 white下文件夹
 
-黄智贤
+[黄智贤](https://github.com/jsmod2-java-c/China-Anti-Selit/tree/master/white/HuangZhiXian)
