@@ -84,6 +84,10 @@
 
 链接: http://bbs.tianya.cn/post-worldlook-1750005-1.shtml
 
+7. 人民日报: 蔡英文说台湾绝不承认“一国两制”， 但她说了算吗？
+
+链接: https://baijiahao.baidu.com/s?id=1621591169454740632&wfr=spider&for=pc
+
 
 ## 中国香港人的态度
 
@@ -95,7 +99,15 @@
 
 链接: http://baijiahao.baidu.com/s?id=1644530767206346607&wfr=spider&for=pc
 
-## 台独分子和美国反动势力的丑恶和双标嘴脸
+## 中国台湾人的态度
+
+1. 台湾军队，也反对台独！
+
+链接: http://dy.163.com/v2/article/detail/E8SBH4BF051597H7.html
+
+
+
+## 港台独分子和美国反动势力的丑恶和双标嘴脸
 
 1. 内地男子喷“中国必胜”两日后罪成被判监禁4周，香港法院真神速
 
